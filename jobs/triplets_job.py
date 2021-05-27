@@ -1,5 +1,5 @@
 """
-Coding challenge solution for Aclima
+Coding challenge solution for XXXXXXX
 @author danb
 
 My solution to the given problem is a production ready
